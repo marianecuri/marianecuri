@@ -13,8 +13,12 @@
   <a href = "mailto:marianecuri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="center" alt="Cartoon Computer Dividing Line Decoration PNG Image" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114691069/227011501-6963482c-5620-45ec-b374-179172bd3ef3.png">
+###
 
+<div align="center">
+  <img align="center" alt="Cartoon Computer Dividing Line Decoration PNG Image" height="180;" src="https://user-images.githubusercontent.com/114691069/227011501-6963482c-5620-45ec-b374-179172bd3ef3.png">
+</div>
+  
 #
 
 <div align="center">
