@@ -1,6 +1,6 @@
-# 👋 Hello, World!
+![HELLO, WORLD!](https://user-images.githubusercontent.com/114691069/227239765-3ceb9b80-7f5a-4675-bba5-191993ad2519.gif)
 
-  <img align="left" alt="Mariane Profile Picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114691069/227005596-772c65ae-455c-4c61-945c-e5c7858407a6.jpg">
+<img align="left" alt="Mariane Profile Picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114691069/227005596-772c65ae-455c-4c61-945c-e5c7858407a6.jpg">
 
 #### 👤 Mariane Martins Curi, 18 anos.
 #### 👩🏻‍💻 Estudante da Fatec Ourinhos, cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
