@@ -15,11 +15,7 @@
 
 ###
 
-<div align="center">
-  <img align="center" alt="Cartoon Computer Dividing Line Decoration PNG Image" height="180;" src="https://user-images.githubusercontent.com/114691069/227011501-6963482c-5620-45ec-b374-179172bd3ef3.png">
-</div>
-  
-#
+![Minimalist Pink Love Stick Dividing Line Vector Design Images](https://user-images.githubusercontent.com/114691069/227565735-983b624b-2f49-4057-b807-bfaa5dce320c.png)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/>
