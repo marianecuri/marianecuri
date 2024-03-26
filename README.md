@@ -2,8 +2,8 @@
 
 <img align="left" alt="Mariane Profile Picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114691069/227005596-772c65ae-455c-4c61-945c-e5c7858407a6.jpg">
 
-#### 👤 Mariane Martins Curi, 18 anos, Ribeirão do Sul - SP.
-#### 👩🏻‍💻 Estudante da Fatec Ourinhos, cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
+#### 👤 Mariane Martins Curi, 19 anos, Ribeirão do Sul - SP.
+#### 👩🏻‍💻 Estudante da Fatec Ourinhos, cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.
 ####
 
 <div align="left">
