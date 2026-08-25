@@ -15,6 +15,9 @@
   <a href="mailto:marianecuri@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
+  <a href="mailto:curi.mariane@kingpage.com.br">
+    <img src="https://img.shields.io/badge/KingPage-FFBD00?style=for-the-badge&logoColor=white" alt="KingPage">
+  </a>
 </div>
 
 ###
@@ -33,12 +36,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <a href="https://www.php.net/" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" /> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /> </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a>
 </p>
 
 ###
